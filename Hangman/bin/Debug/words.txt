@@ -1,0 +1,17 @@
+cat
+dog
+fish
+hello world
+cheese
+code
+universe
+planet
+uranus
+apple
+mango
+potato
+tomato
+cauliflower
+umbrella
+zebra
+car
